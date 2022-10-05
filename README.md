@@ -7,4 +7,5 @@ hello
 # Last change
 This is the first version of the demo that
 
+print nice nice nice
 
